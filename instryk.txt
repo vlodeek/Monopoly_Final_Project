@@ -1,1 +1,0 @@
-git pull project master загрузить с гита
